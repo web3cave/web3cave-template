@@ -3,6 +3,10 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
+siteTitle: "web3::cave"
+cacheMaxDays: 30
+
+
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
   - href: https://web3cave.github.io/flat-data-template/data.xml
