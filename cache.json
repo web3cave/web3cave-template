@@ -231,9 +231,9 @@
           "description": "Collection of onchain programs targeting Sealevel",
           "link": "https://github.com/solana-labs/solana-program-library",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1537,
+          "wordCount": 1512,
           "title": "SPL Governance",
-          "imageUrl": "https://opengraph.githubassets.com/d943259e53d63ff0a7e0a434ec4b09774d124e85568676b83eff21051452af36/solana-labs/solana-program-library"
+          "imageUrl": "https://opengraph.githubassets.com/8e923351ca1edb470c189baf2740dc2777b9df56984b68bfd1b7f47bd84ca354/solana-labs/solana-program-library"
         },
         {
           "id": "https://twitter.com/SpiderDAO",
@@ -1291,7 +1291,7 @@
           "description": "Simple governance UI for Solana",
           "link": "https://realms.today/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 4,
+          "wordCount": 3,
           "title": "Realms",
           "imageUrl": null
         },
@@ -1681,9 +1681,9 @@
           "description": "Discover and connect with communities",
           "link": "https://guildsdao.com/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 124,
+          "wordCount": null,
           "title": "GuildsDAO",
-          "imageUrl": "https://guilds-assets.s3.eu-west-2.amazonaws.com/Metatag_Guilds.png"
+          "imageUrl": null
         },
         {
           "id": "https://dao-analyzer.science/daohaus",
@@ -1691,7 +1691,7 @@
           "description": "Basic DAO metrics dashboard",
           "link": "https://dao-analyzer.science/daohaus",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": null,
+          "wordCount": 4,
           "title": "DAO Analyzer",
           "imageUrl": null
         },
@@ -1741,9 +1741,9 @@
           "description": "DAO treasury balance sheet",
           "link": "https://openorgs.info/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 39,
+          "wordCount": 40,
           "title": "OpenOrgs",
-          "imageUrl": "https://open-orgs-9no4n7ztq-ethburned.vercel.app/social.png"
+          "imageUrl": "https://open-orgs-9s8aqtdzd-ethburned.vercel.app/social.png"
         },
         {
           "id": "https://twitter.com/rss3_",
@@ -2371,7 +2371,7 @@
           "description": "Markerting and product studio",
           "link": "https://serotonin.co/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1793,
+          "wordCount": 1956,
           "title": "Serotonin",
           "imageUrl": "https://assets.website-files.com/60929f07e2932ee089485054/60a42918d4316f3405ea34b9_sero-card.png"
         },
