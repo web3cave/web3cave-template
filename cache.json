@@ -151,7 +151,7 @@
           "description": "Operating system for internet organizations",
           "link": "https://colony.io/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 567,
+          "wordCount": 568,
           "title": "Colony",
           "imageUrl": "https://assets.website-files.com/61840fafb9a4c433c1470856/6196245b3c53031ddab08dd2_Screenshot%202021-11-18%20at%2018.59.29.png"
         },
@@ -231,9 +231,9 @@
           "description": "Collection of onchain programs targeting Sealevel",
           "link": "https://github.com/solana-labs/solana-program-library",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1512,
+          "wordCount": 1520,
           "title": "SPL Governance",
-          "imageUrl": "https://opengraph.githubassets.com/8e923351ca1edb470c189baf2740dc2777b9df56984b68bfd1b7f47bd84ca354/solana-labs/solana-program-library"
+          "imageUrl": "https://opengraph.githubassets.com/12a1cc1beaf7e1c7a7f6924dbaaf138fed697bb0b78a9aba72c4d7561ee944d1/solana-labs/solana-program-library"
         },
         {
           "id": "https://twitter.com/SpiderDAO",
@@ -2371,7 +2371,7 @@
           "description": "Markerting and product studio",
           "link": "https://serotonin.co/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1956,
+          "wordCount": 1933,
           "title": "Serotonin",
           "imageUrl": "https://assets.website-files.com/60929f07e2932ee089485054/60a42918d4316f3405ea34b9_sero-card.png"
         },
