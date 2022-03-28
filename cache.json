@@ -231,7 +231,7 @@
           "description": "Collection of onchain programs targeting Sealevel",
           "link": "https://github.com/solana-labs/solana-program-library",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1567,
+          "wordCount": 1519,
           "title": "SPL Governance",
           "imageUrl": "https://opengraph.githubassets.com/bd21e472fbf11f0939cdfcb009f08ee6692507e54e8c63775115cb475d023ae9/solana-labs/solana-program-library"
         },
