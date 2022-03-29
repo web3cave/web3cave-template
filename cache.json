@@ -233,7 +233,7 @@
           "publishedOn": "2022-03-06T14:26:34.000Z",
           "wordCount": 1519,
           "title": "SPL Governance",
-          "imageUrl": "https://opengraph.githubassets.com/5d5c8f20fb1e2eadee6c564addc09e525703f727de31dda7c3e75bf74bcb9a1d/solana-labs/solana-program-library"
+          "imageUrl": "https://opengraph.githubassets.com/108cf7a53d87b938af28c68b778a4479d943da20b703f5d36ebb76c82b739abc/solana-labs/solana-program-library"
         },
         {
           "id": "https://twitter.com/SpiderDAO",
@@ -1691,7 +1691,7 @@
           "description": "Basic DAO metrics dashboard",
           "link": "https://dao-analyzer.science/daohaus",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 4,
+          "wordCount": null,
           "title": "DAO Analyzer",
           "imageUrl": null
         },
