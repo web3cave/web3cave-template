@@ -231,9 +231,9 @@
           "description": "Collection of onchain programs targeting Sealevel",
           "link": "https://github.com/solana-labs/solana-program-library",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1523,
+          "wordCount": 1518,
           "title": "SPL Governance",
-          "imageUrl": "https://opengraph.githubassets.com/9f5c3cb9aae780dd5531a052880e6b2fb1a758fb38f04d8b6fe9d172ac9f3bb3/solana-labs/solana-program-library"
+          "imageUrl": "https://opengraph.githubassets.com/cb48df5a1e524246dbe5b308e42303fe51b6972cff2895cdc2149dfd7213be1e/solana-labs/solana-program-library"
         },
         {
           "id": "https://twitter.com/SpiderDAO",
@@ -1741,7 +1741,7 @@
           "description": "DAO treasury balance sheet",
           "link": "https://openorgs.info/",
           "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 39,
+          "wordCount": 40,
           "title": "OpenOrgs",
           "imageUrl": "https://open-orgs-7mi6m50qs-ethburned.vercel.app/social.png"
         },
